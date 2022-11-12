@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "9025104"
+    build_id: "9060536"
     target: "cloudripper_debug_memory"
     source_file: "shm_ipc.ko"
   }

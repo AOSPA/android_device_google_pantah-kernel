@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "9025104"
+    build_id: "9060536"
     target: "cloudripper"
     source_file: "max77729_uic.ko"
   }
